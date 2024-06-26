@@ -1,2 +1,5 @@
-Here I am using different machine learning techniques such as random forest, gradient boosting and neural networks to predict features about the topics I am interested in.
-Project 1: Red wine quality.
+This repository contains various machine learning projects using techniques like Random Forest, Gradient Boosting and Neural Networks.
+
+Projects
+Project 1: Red Wine Quality Prediction
+In this project, we predict the quality of red wine based on its chemical properties.
